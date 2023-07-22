@@ -15,7 +15,7 @@ class HHAPI:
         self.__header = {
             "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 OPR/99.0.0.0 (Edition Yx 05)"}
         self.__params = {"page": 0, "per_page": 100, "only_with_salary": True}
-        self.employers_id = ["1740", "2180", "15478", "23186", "78638", "4457416", "6189"]
+        self.employers_id = ["1740", "2180", "15478", "23186", "78638", "4457416", "6189", "36227", "1650086"]
         self.employers = []
         self.vacancies = []
 
